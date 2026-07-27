@@ -1,0 +1,60 @@
+#main-border {
+    border: 30px solid rgb(242, 131, 114);
+}
+
+#pasta-border {
+    border: 30px solid rgb(245, 96, 66);
+}
+
+#pizza-border {
+    border: 30px solid rgb(252, 217, 119);
+}
+
+#gelato-border {
+    border: 30px solid rgb(158, 236, 255);
+}
+
+h1,
+.title-centered,
+.steps {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(74, 67, 50);
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+#steps, 
+#container {
+    display: flex;
+    padding: 15px;
+}
+
+.title {
+    font-size: 24px;
+}
+
+ol,
+ul,
+p {
+    color:rgb(74, 67, 50);
+    font-size: 16px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#list-centered,
+.title-centered,
+p {
+    text-align: center;
+}
+
+.ingredients {
+    margin-left: 470px;
+}
+
+h2 {
+    font-size: 24px;
+}
